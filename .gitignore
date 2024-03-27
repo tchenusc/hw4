@@ -2,4 +2,7 @@ hw4_tests/
 bst-test
 equal-paths-test
 *.o
-
+*.exe
+.vscode
+.DS_Store
+hw4_tests.tar.gz
