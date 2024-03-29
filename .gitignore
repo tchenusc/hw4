@@ -6,3 +6,4 @@ equal-paths-test
 .vscode
 .DS_Store
 hw4_tests.tar.gz
+bst-test.dSYM
